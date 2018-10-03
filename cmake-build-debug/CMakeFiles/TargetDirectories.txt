@@ -1,0 +1,3 @@
+C:/Users/Quoc Trung/CLionProjects/Khai bao bien con tro/cmake-build-debug/CMakeFiles/Khai_bao_bien_con_tro.dir
+C:/Users/Quoc Trung/CLionProjects/Khai bao bien con tro/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Quoc Trung/CLionProjects/Khai bao bien con tro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
