@@ -9,4 +9,8 @@
 C:/Users/Quoc Trung/CLionProjects/Khai bao bien con tro/main.c
 stdio.h
 -
+stdlib.h
+-
+malloc.h
+-
 
